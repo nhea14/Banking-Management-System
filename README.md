@@ -5,19 +5,27 @@ The use of Banking Management System is to help in improving and enhancing banki
 The main purpose of the BMS is to enable the effective functioning of banking services, rendering of quality services and support decision-making. Thus, it optimizes manual errors and operating expense; customers can obtain banking services effectively and promptly with data centralized and secured. This goes well with the organizational goals of developing reliable financial products while boosting organizational productivity.
 
 •	Included Features:
+
    o	Customer Management: Responsible for customers’ data, including their personal data, account data and history.
+   
    o	Account Management: Helps to handle account assignments, including opening and closing accounts and checking the balance.
+   
    o	Transaction Management: Avails services like deposits and withdrawal transactions.
    
 •	Excluded Features:
    o	It means that the system cannot address physical branch facilities or physical interface with customer services.
+   
    o	It does not offer investment account management; investment processing is usually beyond the capabilities of this form of system.
+   
    o	It is not necessary to include loan management functions; frequently, it is managed by other software.
    
 Target Users											     
-The intended audience for a banking management system includes:                                                                                                                            
+The intended audience for a banking management system includes:  
+
 •	Bank Employees: Employees including tellers, customer service attendants, and branch managers who work with and need to access customers’ information and transaction tools.
+
 •	Municipal Officers: Other relevant target users include those government officials who may need to deal with banks in the management of public funds or responding to regulatory requirements.
+
 •	Customers: Self-service operations such as applying for a new account or checking the balance through the internet banking system.
 
 II.	SUSTAINABLE DEVELOPMENT GOALS
