@@ -8,6 +8,7 @@ The main purpose of the BMS is to enable the effective functioning of banking se
    o	Customer Management: Responsible for customers’ data, including their personal data, account data and history.
    o	Account Management: Helps to handle account assignments, including opening and closing accounts and checking the balance.
    o	Transaction Management: Avails services like deposits and withdrawal transactions.
+   
 •	Excluded Features:
    o	It means that the system cannot address physical branch facilities or physical interface with customer services.
    o	It does not offer investment account management; investment processing is usually beyond the capabilities of this form of system.
