@@ -24,13 +24,19 @@ INSERT INTO Branch (BranchName, BranchAddress, BranchPostalCode) VALUES
     ('CARD SME BANK', 'Namuco, Rosario, Batangas', '4225');
 
 INSERT INTO Customer (CustomerID, CustomerName, CustomerAddress) VALUES
-    ('1234', 'Marifi Hernandez', 'Bagong Pook, Rosario, Batangas' ),
-    ('2345', 'Nerio Hernandez', 'Bagong Pook, Rosario, Batangas');
-
-INSERT INTO Account (CustomerID, Username, Password, MobilePIN) VALUES
-    ('1234', 'Marifi', '@feMD#24', '120603'),
-    ('2345', 'Nerioh','#NERio@12', '081263');
+    ('1234', 'Marifi Hernandez', 'Bagong Pook, Rosario, Batangas'),
+    ('2345', 'Nerio Hernandez', 'Bagong Pook, Rosario, Batangas'),
+    ('3456', 'Nhealeen Hernandez', 'Bagong Pook, Rosario, Batangas'),
+    ('4567', 'Mark Hernandez', 'Bagong Pook, Rosario, Batangas'),
+    ('5678', 'Matt Hernandez', 'Bagong Pook, Rosario, Batangas');
     
+INSERT INTO Account (CustomerID, Username, Password, MobilePIN) VALUES
+    ('1234', 'Marifi', 'fe@24', '120603'),
+    ('2345', 'Nerioh','NER@12', '081263'),
+    ('3456', 'Nhea', 'Nhea@2004', '112004'),
+    ('4567', 'Mark', 'Mark@02', '120206'),
+    ('5678', 'Matt', 'Matt@2008', '112208');
+
 SELECT * FROM Branch;
 SELECT * FROM Customer;
 SELECT * FROM Account;
