@@ -14,7 +14,7 @@ CREATE TABLE Customer (
 );
 -- Account Table
 CREATE TABLE Account (
-    CustomerID INT AUTO_INCREMENT PRIMARY KEY,
+    CustomerID INT PRIMARY KEY,
     Username VARCHAR (50) NOT NULL,
     Password VARCHAR (50) NOT NULL,
     MobilePIN INT NOT NULL
